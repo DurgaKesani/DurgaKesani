@@ -9,5 +9,5 @@
 - 💬 Ask me about Spring Boot, Spring Batch, Spring Cloud
 - 📫 How to reach me: Twitter @iamtelugu
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact:  Most of the learning in lockdown happening on either YouTube or on GitHub.
+
